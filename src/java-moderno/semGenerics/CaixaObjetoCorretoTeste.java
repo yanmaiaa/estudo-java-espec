@@ -1,4 +1,4 @@
-public class CaixaObjetoCorretoTeste {
+ public class CaixaObjetoCorretoTeste {
     //O que ocontece é que, no momento em que fazemos o cast, ao compilar a aplicação, o java não conseguirá identificar 
     //que contem um erro no momento de realizar o cast, apenas após a funcionalidade ser utilizada pelo usuário/cliente,
     //já que o arquivo.class que será executado não vai identificar o erro

@@ -1,5 +1,4 @@
 
-
 public class CaixaObjetoSemGenerics {
     
     private Object coisa;
