@@ -11,4 +11,9 @@ public static Object getUltimo1(List<?> lista){
 public static <T> T getUltimo2(List<T> lista){
   return lista.get(lista.size() - 1);
 }
+//podemos fazer um que tenha vários tipos e retorne um tipo C
+public static <A, B, C> C teste(A paramA, B paramB){
+  C teste = null;
+  return teste;
+}
 }
